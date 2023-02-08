@@ -10,11 +10,9 @@ Commands in docs editor
 https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#paragraph-level-markup
 
 
-able of contents
 .. toctree::
-Special names
-Paragraph-level markup
 .. note::
+123
 .. warning::
 .. versionadded::
 .. versionchanged::
